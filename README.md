@@ -33,6 +33,7 @@
     - O sistema deve ser capaz de realizar transações PIX utilizando chaves cadastradas de usuários.
     - Cada transação deve ser identificada de forma única por um id.
     - Cada transação deve conter a chave do usuário que envia e do usuário que recebe o PIX, além do valor, claro.
+    - O sistema deve listar as transações feitas por um usuário
     - O sistema deve ser capaz de persistir essas informações em um banco de dados relacional.
   - Adicionar testes unitários 
 
